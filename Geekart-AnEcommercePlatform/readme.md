@@ -1,0 +1,1 @@
+https://spring.io/guides/gs/multi-module#scratch - reference for multi module structure
